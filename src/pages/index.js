@@ -1,12 +1,12 @@
 import * as React from 'react'
 
 const IndexPage = () => {
-  return (
-    <main>
-      <h1>Welcome to my Budget Application</h1>
-      <p>I'm making this by following the Gatsby Tutorial</p>
-    </main>
-  )
+	return (
+		<main>
+	  		<h1>Welcome to my Budget Application</h1>
+	  		<p>I'm making this by following the Gatsby Tutorial</p>
+		</main>
+  	)
 }
 
 export const Head = () => <title>Home Page</title>
